@@ -2,6 +2,8 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+### :fire: My Stats :
+
 Languages and Tools I use:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -19,5 +21,10 @@ Languages and Tools I use:
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="40" height="40"/>&nbsp;
+</div>
+
+My Stats:
+<div>
+ https://github-readme-streak-stats.herokuapp.com/?user=LiaisanBradshaw  
 </div>
 
