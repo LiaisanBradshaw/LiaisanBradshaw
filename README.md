@@ -2,9 +2,7 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-### :fire: My Stats :
 
-Languages and Tools I use:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -23,7 +21,7 @@ Languages and Tools I use:
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="40" height="40"/>&nbsp;
 </div>
 
-My Stats:
+### :fire: My Stats :
 
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=LiaisanBradshaw&theme=vue&hide_border=true" alt="GitHub Streak" /></a>
 
