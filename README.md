@@ -25,6 +25,6 @@ Languages and Tools I use:
 
 My Stats:
 <div>
- https://github-readme-streak-stats.herokuapp.com/?user=LiaisanBradshaw  
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LiaisanBradshaw&theme=light&background=FFFFFF)](https://git.io/streak-stats)
 </div>
 
