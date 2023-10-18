@@ -24,7 +24,6 @@ Languages and Tools I use:
 </div>
 
 My Stats:
-<div>
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LiaisanBradshaw&theme=light&background=FFFFFF)](https://git.io/streak-stats)
-</div>
+
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=LiaisanBradshaw&theme=vue&hide_border=true" alt="GitHub Streak" /></a>
 
