@@ -21,7 +21,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="40" height="40"/>&nbsp;
 </div>
 
-### :fire: My Stats :
-
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=LiaisanBradshaw&theme=vue&hide_border=true" alt="GitHub Streak" /></a>
-
