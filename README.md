@@ -1,6 +1,6 @@
 ### Hi there 👋
 ---
-
+### :woman_technologist: I am Liaisan Bradshaw, a full-stack developer.
 ### :hammer_and_wrench: Languages and Tools I use :
 
 <div>
