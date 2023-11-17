@@ -22,6 +22,6 @@
 #### Let's Get in Touch:
 <div>
   <a href="https://www.linkedin.com/in/liaisan-bradshaw/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/></a>&nbsp;
-  <a href="https://leetcode.com/lbradshaw/"><i class="cib-leetcode"></i>></a>&nbsp;
+  <a href="https://leetcode.com/lbradshaw/"><img src="https://github.com/simple-icons/simple-icons/blob/master/icons/leetcode.svg" title="LeetCode" alt="LeetCode" width="40" height="40"/></a>&nbsp;
 </div>
 
