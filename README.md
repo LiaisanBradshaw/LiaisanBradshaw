@@ -1,7 +1,7 @@
 <h1 align="center">Hello all, I am Liaisan Bradshaw</h1>
 <h3 align="center">Software Engineer</h3>
 
-- :woman_technologist: I write code in **C#, JavaScript and Java**
+- :woman_technologist: I write code using **JavaScript, React, Node.js, HTML and CSS**
 - :seedling: I am learning **AI and Cloud-computing**
 - :computer: Find me on [**Linkedin**](https://www.linkedin.com/in/liaisan-bradshaw/)
 - :e-mail: Connect with me via **<bradshawliaisan@gmail.com>**
